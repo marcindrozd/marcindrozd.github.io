@@ -46,6 +46,7 @@ $blue: #3498db;
 $purple: #9b59b6;
 $orange: #e67e22;
 $red: #e74c3c;
+$belize: #2980b9;
 
 {% unless site.data.theme.color == "default" %}
   $theme-color: ${{ site.data.theme.color }};
@@ -156,6 +157,29 @@ h3 {
   color: $gray-light;
 }
 
+.avatar {
+  width: 140px;
+}
+
+.media-social {
+  margin-top: 22px;
+  display: flex;
+  justify-content: space-between;
+
+  a:hover {
+    text-decoration: none;
+  }
+
+  i {
+    font-size: 34px;
+  }
+}
+
+.media-about {
+  font-size: 14px;
+  font-style: italic;
+}
+
 .home-read-more {
   margin-bottom: 40px;
 }
@@ -188,6 +212,20 @@ h3 {
     position: absolute;
     left: $navbar-padding-horizontal;
     height: ($navbar-height + 34px) / 2;
+  }
+  .media {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    .media-social {
+      a {
+        margin-left: 16px;
+      }
+      a:first-child {
+        margin-left: 0;
+      }
+    }
   }
 }
 
