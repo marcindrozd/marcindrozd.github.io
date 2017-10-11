@@ -18,7 +18,7 @@ I liked that they were so diverse (just like the people attending). They ranged 
 
 While there really was no weak talk, these are the three I enjoyed the most:
 
-- Rescuing legacy codebases with GraphQL and Rails by Netto Farah
+### Rescuing legacy codebases with GraphQL and Rails by Netto Farah
 
 I've tried out some tutorials for [GraphQL](http://graphql.org) in the past. This presentation definitely encouraged me to try out more. The solution itself is a response to some challenges of classic REST APIs.
 
@@ -34,7 +34,7 @@ GraphQL is a solution that tries to solve some of the issues. It's interface wit
 
 Seeing this presentation made me eager to try this out in a more complex project as soon as possible. It was really helpful that Netto was so excited about this technology and even did some live coding (which is always scary). He also shared some challenges that they encountered while building GraphQL in Rails (n+1 queries, monitoring and errors logging) and how they managed to solve it.
 
-- Predicting Performance Changes of Distributed Applications by Wojtek Rząsa
+### Predicting Performance Changes of Distributed Applications by Wojtek Rząsa
 
 This talk was especially interesting due to its academic feel and the way that it was structured. Wojtek is a PhD on Rzeszow University of Technology in Poland and he teaches Ruby and Rails while also performing some interesting experiments on the side. He shared results of two of such cases involving Heroku and performance on the servers.
 
@@ -49,7 +49,7 @@ All this was achieved thanks to modelling random and intelligent HTTP routers. A
 - different level of results
 - what if scenarios (what if there were more intelligent routers)
 
-- How to Make It As A Junior Dev and Stay Sane by Katelyn Hertel
+### How to Make It As A Junior Dev and Stay Sane by Katelyn Hertel
 
 The last talk that I want to write about was not really about tech, but more around soft-skills and how to manage in a difficult programming environment. This was especially interesting for me, as I found myself in such situations where I felt overwhelmed by tasks at hand and felt lost and wanted to quit.
 
@@ -66,7 +66,7 @@ There were also some lessons for management or senior staff - listen to people a
 
 These were all important lessons for I think most of the people in the programming business (and not only!). Following at least some of those can make life a lot easier. I hope to incorporate them step by step to manage my tasks and time better.
 
-### Next year
+## Next year
 
 You can probably tell that I enjoyed Euruko a lot. This is only scratching a surface, but these truly were two great days. I also found out that the event is truly community lead. It turned out that everyone can try and organize Euruko by doing a short presentation about their town or city and the remaining participants vote on the one that they liked the most. This is really crazy and awesome.
 
