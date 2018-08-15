@@ -1,5 +1,5 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
-url: "http://marcindrozd.github.io" # the base hostname & protocol for your site
+url: "https://marcindrozd.com" # the base hostname & protocol for your site
 title: "Marcin Drozd"
 description: "I am a self-taught Ruby on Rails developer also trying things out in JavaScript and Elixir. This is my blog where I occassionally share my thoughts..."
 author: "Marcin Drozd"
