@@ -7,8 +7,6 @@ author: "Marcin Drozd"
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
 
-gems:
-  - jemoji
 exclude:
   - "README.md"
   - "CHANGELOG.md"
@@ -36,3 +34,5 @@ defaults:
       image: true
 plugins:
   - jekyll-seo-tag
+  - jemoji
+excerpt_separator: <!--more-->

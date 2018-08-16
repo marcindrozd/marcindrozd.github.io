@@ -2,11 +2,15 @@
 title: "Developing as a developer"
 ---
 
+![Picture of people preparing for a journey]({{ "/assets/images/posts/2016-10-07-developing-as-a-developer.jpg" | absolute_url }})
+
 Hey there traveller, I want to share a story with you. Some time ago I set off for a programming journey. This has been a fun and rewarding adventure. It was also filled with unexpected frustrations, roadblocks and dangers. I have been on the learning road for some time now and I want to share my experiences and things that did work out for me in the end.
 
 Hopefully, some of those parts will give you ideas about how to progress, other just make you feel better that you are not alone in your feelings. This guide is written from a perspective of someone who has recently stumbled into the programming world from a somewhat different tale but hopefully also seasoned travellers can find some inspiration in it.
 
 Where did I come from you ask? Well, the story is somewhat typical for this day and age. I worked for large corporations, coordinating work of various technicians that tried to fix a broken server in one part of the world from the opposite side of the globe. This did not feel satisfying. I always felt that there is an adventurer in me, that craves for something more creative where you have something tangible at the end of the week. World of programming was calling me, but I felt frightened that this is no place for someone like me, someone without the necessary background. One time, however, I took a chance… Let’s get started.
+
+<!--more-->
 
 ## A fork in the road
 

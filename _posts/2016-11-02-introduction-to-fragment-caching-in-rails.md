@@ -2,11 +2,15 @@
 title: "Introduction to fragment caching in Rails"
 ---
 
+![Image of puzzle pieces]({{ "/assets/images/posts/2016-11-02-introduction-to-fragment-caching-in-rails.jpg" | absolute_url }})
+
 You’ve probably read or heard a lot that the two most difficult concepts in computer science are naming things and cache invalidation. The quote has appeared numerous times in books, blogs, and other programming sources in one form or another. While the only remedies for coming up with names are practicing a lot, being clear in our intentions or having a sudden epiphany (none of which are quick and simple), Rails tries to help us with the caching part as much as possible. Caching can significantly improve web application performance. This requires little additional code, especially if we have a large number of complex partial rendering.
 
 There is a lot of different things that we can cache in Rails: actions, SQL queries which are taken care of automatically for us, and page fragments. You can find an overview of all of those in [the official Rails guides](http://guides.rubyonrails.org/). Here we will focus on the fragment caching in views. We will discuss how it works, when it can be used and what are some gotchas or things we need to be mindful of.
 
 We will also uncover the mystery of the cover for this post (that is unless you are already familiar with this concept).
+
+<!--more-->
 
 ### What exactly is fragment caching?
 

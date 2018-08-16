@@ -2,7 +2,11 @@
 title: "Visiting Euruko 2017"
 ---
 
+![Photo of chair rows in a conference hall]({{ "/assets/images/posts/2017-10-10-visiting-euruko-2017.jpg" | absolute_url }})
+
 [Euruko](https://euruko2017.org) that took place on 29th-30th September 2017 was my first Euruko. Well, actually it was my first tech conference since I switched my career to programming. And I loved it. Let me tell you why...
+
+<!--more-->
 
 ## The atmosphere
 
